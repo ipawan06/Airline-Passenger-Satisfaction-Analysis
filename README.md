@@ -39,7 +39,7 @@ This project analyzes airline passenger reviews to uncover key drivers of satisf
 - Emphasizing reliability (on-time flights) and human interaction delivers a competitive advantage.  
 - Provides actionable insights for airline executives, customer service managers, and marketing teams.  
 #### Full Dashboard
-![Airline Passenger Satisfaction Analysis dashboard](docs/airline.png)
+![Airline Passenger Satisfaction Analysis dashboard](airline.png)
 
 ## 📂 Files
 - `pawan_harshith.twbx` → Tableau packaged workbook  
